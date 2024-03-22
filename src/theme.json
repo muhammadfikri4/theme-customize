@@ -1,0 +1,9 @@
+{
+    "ns-primary": "ns-color-blue-700",
+    "ns-secondary": "ns-color-pink-700",
+    "ns-success": "ns-color-green-700",
+    "ns-danger": "ns-color-red-600",
+    "ns-warning": "ns-color-orange-600",
+    "ns-info": "ns-color-blue-600",
+    "ns-dark": "ns-color-gray-600"
+}
